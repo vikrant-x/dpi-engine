@@ -1,8 +1,10 @@
 # 🔬 DPI Engine — Deep Packet Inspection System
-## Java Edition (Spring Boot 3.2 · Java 17)
+> Java Edition | Spring Boot | Real-time Packet Analysis
 
-> Real-time packet inspection, TLS SNI extraction, app classification,
-> traffic blocking — all in a professional white-UI web dashboard.
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 ---
 
