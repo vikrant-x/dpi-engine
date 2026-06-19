@@ -1,0 +1,16 @@
+com\dpi\engine\DpiEngineApplication.class
+com\dpi\engine\model\DpiReport$SniEntry.class
+com\dpi\engine\model\PacketResult.class
+com\dpi\engine\service\PacketParser.class
+com\dpi\engine\service\PacketParser$ParsedPacket.class
+com\dpi\engine\service\TlsSniExtractor.class
+com\dpi\engine\config\WebSocketConfig.class
+com\dpi\engine\model\FiveTuple.class
+com\dpi\engine\model\DpiReport.class
+com\dpi\engine\service\FlowTable.class
+com\dpi\engine\model\Flow.class
+com\dpi\engine\controller\DpiController.class
+com\dpi\engine\service\PcapReader$RawPacket.class
+com\dpi\engine\model\AppType.class
+com\dpi\engine\service\PcapReader.class
+com\dpi\engine\service\DpiEngine.class
